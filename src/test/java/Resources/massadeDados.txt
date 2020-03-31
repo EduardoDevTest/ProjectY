@@ -1,0 +1,18 @@
+PreencherOportunidadePageOne
+
+Contato:OswaldoRocha
+nome:StevejobsDasilva
+Skill:devteste
+Valor:80.000
+CArgo:AnalisedeumEngenheiro
+
+
+Contato:OswaldoRocha
+nome:BillTestador
+Skill:Tester
+Valor:100.000
+CArgo:Qa engineer
+
+
+
+
